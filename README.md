@@ -27,5 +27,4 @@ Users can leave the chat room at any time.
 #Technologies Used
 
 Node.js
-Express.js
 Socket.io
